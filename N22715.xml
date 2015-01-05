@@ -114,8 +114,8 @@
    <text xml:lang="eng">
       <front>
          <div type="title_page">
-            <pb facs="tcp:030022_0000_0FE3C77E03750A50"/>
-            <pb facs="tcp:030022_0001_0FE3C7786A8DD450"/>
+            <pb facs="unknown:030022_0000_0FE3C77E03750A50"/>
+            <pb facs="unknown:030022_0001_0FE3C7786A8DD450"/>
             <p>THE HASTY-PUDDING: A POEM, IN THREE CANTOS.</p>
             <p>WRITTEN AT CHAMBERY, IN SAVOY, JANUARY, 1793.</p>
             <lg>
@@ -126,7 +126,7 @@
             </lg>
          </div>
          <div type="notice">
-            <pb facs="tcp:030022_0002_0FE3C7831B9E4448"/>
+            <pb facs="unknown:030022_0002_0FE3C7831B9E4448"/>
             <head>ADVERTISEMENT.</head>
             <p>IN the following Poem, written by Mr. BAR<g ref="char:EOLhyphen"/>LOW, a <hi>republican,</hi> virtue is recommended with <hi>republican</hi> freedom and boldness. The poetic beau<g ref="char:EOLhyphen"/>ties and beauties of sentiment here displayed are well worthy the Author; and it must be pleasing to observe the warmth of affection which he ap<g ref="char:EOLhyphen"/>pears to retain for his native country. If this has with justice been esteemed one of the Writer's best performances, we need make no apology for its publication; and if it is calculated to answer the design expressed in the Preface, it ought to be own<g ref="char:EOLhyphen"/>ed and studied by every family in New-England.</p>
             <closer>
@@ -138,7 +138,7 @@
             </closer>
          </div>
          <div type="preface">
-            <pb facs="tcp:030022_0003_0FE3C78529C878E0"/>
+            <pb facs="unknown:030022_0003_0FE3C78529C878E0"/>
             <head>PREFACE.</head>
             <p>
                <hi>A SIMPLICITY in diet, whether it be considered with reference to the happiness of individuals or the pros<g ref="char:EOLhyphen"/>perity of a nation, is of more consequence than we are apt to imagine. In recommending so important an object to the rational part of mankind, I wish it were in my power to do it in such a manner as would be likely to gain their attention. I am sensible that it is one of those subjects in which example has infinitely more power than the most con<g ref="char:EOLhyphen"/>vincing arguments on the highest charms of poetry. Gold<g ref="char:EOLhyphen"/>smith's</hi> Deserted Village, <hi>though possessing these two ad<g ref="char:EOLhyphen"/>vantages in a greater degree than any other work of the kind, has not prevented villages in England from being de<g ref="char:EOLhyphen"/>serted. The apparent interest of the rich individuals, who form the taste as well as the laws in that country, has been against him; and with that interest it has been vain to con<g ref="char:EOLhyphen"/>tend.</hi>
@@ -147,7 +147,7 @@
                <hi>The vicious habits which in this little piece I endeavor to combat, seem to me not so difficult to cure. No class of peo<g ref="char:EOLhyphen"/>ple has any</hi> interest <hi>in supporting them; unless it be the in<g ref="char:EOLhyphen"/>terest which certain families may feel in vying with each other in sumptuous entertaiments. There may indeed be some instances of depraved appetites, which no arguments will conquer; but these may be rare. There are very few persons but what would always prefer a plain dish for them<g ref="char:EOLhyphen"/>selves, and would prefer it likewise for their guests, if there were no risk of reputation in the case. This difficulty can only be removed by example; and the example should proceed from those whose situation enables them to take the lead in forming the manners of a nation. Persons of this descrip<g ref="char:EOLhyphen"/>tion in America, I should hope, are neither above nor below the influence of truth and reason, when conveyed in lan<g ref="char:EOLhyphen"/>guage suited to the subject.</hi>
             </p>
             <p>
-               <pb facs="tcp:030022_0004_0FE3C78A4CB63DF0"/>
+               <pb facs="unknown:030022_0004_0FE3C78A4CB63DF0"/>
                <hi>Whether the manner I have chosen to address my argu<g ref="char:EOLhyphen"/>ments to them be such as to promise any success is what I cannot decide. But I certainly had hopes of doing some good, or I should not have taken the pains of putting so many rhymes together.—The example of domestic virtues has doubtless a great effect. I only wish to rank</hi> simplicity of diet <hi>among the virtues. In that case I should hope it will be cherished and more esteemed by others than it is at pre<g ref="char:EOLhyphen"/>sent.</hi>
             </p>
             <closer>
@@ -157,7 +157,7 @@
       </front>
       <body>
          <div type="poem">
-            <pb facs="tcp:030022_0005_0FE3C78DC16DC8A0"/>
+            <pb facs="unknown:030022_0005_0FE3C78DC16DC8A0"/>
             <head>THE HASTY-PUDDING: A POEM.</head>
             <div n="1" type="canto">
                <head>CANTO I.</head>
@@ -193,7 +193,7 @@
                   <l>Could those mild morsels in my numbers chime,</l>
                   <l>And, as they roll in substance, roll in rhyme,</l>
                   <l>
-                     <pb n="6" facs="tcp:030022_0006_0FE3C793235A8598"/>
+                     <pb n="6" facs="unknown:030022_0006_0FE3C793235A8598"/>
 No more thy aukward unpoetic name</l>
                   <l>Should shun the Muse, or prejudice thy fame;</l>
                   <l>But rising grateful to th' accustom'd ear,</l>
@@ -242,7 +242,7 @@ No more thy aukward unpoetic name</l>
                   <l>For thee thro' Paris, that corrupted town,</l>
                   <l>How long in vain I wandered up and down,</l>
                   <l>
-                     <pb n="7" facs="tcp:030022_0007_0FE3C67E727CE958"/>
+                     <pb n="7" facs="unknown:030022_0007_0FE3C67E727CE958"/>
 Where shameless Bacchus, with his drenching hoard,</l>
                   <l>Cold from his cave usurps the morning board.</l>
                   <l>London is lost in smoke and steep'd in tea;</l>
@@ -290,7 +290,7 @@ Where shameless Bacchus, with his drenching hoard,</l>
                   </l>
                   <l>" With cooling milk, we make the sweet repast.</l>
                   <l>
-                     <pb n="8" facs="tcp:030022_0008_0FE3C79D9F29B110"/>
+                     <pb n="8" facs="unknown:030022_0008_0FE3C79D9F29B110"/>
 " No carving to be done, no knife to grate</l>
                   <l>" The tender ear, and wound the stony plate;</l>
                   <l>" But the smooth spoon, just fitted to the lip,</l>
@@ -336,7 +336,7 @@ Where shameless Bacchus, with his drenching hoard,</l>
                   <l>Let butter drench them in its yellow tide,</l>
                   <l>And a long slice of bacon grace their side;</l>
                   <l>
-                     <pb n="9" facs="tcp:030022_0009_0FE3C7A18E264C98"/>
+                     <pb n="9" facs="unknown:030022_0009_0FE3C7A18E264C98"/>
 Not all the plate, how fam'd soe'er it be,</l>
                   <l>Can please my palate like a bowl of thee.</l>
                </lg>
@@ -383,7 +383,7 @@ Not all the plate, how fam'd soe'er it be,</l>
                </lg>
                <lg>
                   <l>
-                     <pb n="10" facs="tcp:030022_0010_0FE3C798D2501470"/>
+                     <pb n="10" facs="unknown:030022_0010_0FE3C798D2501470"/>
 While the full pail rewards the milk-maid's toil,</l>
                   <l>The mother sees the morning cauldron boil;</l>
                   <l>To stir the pudding next demands their care,</l>
@@ -431,7 +431,7 @@ While the full pail rewards the milk-maid's toil,</l>
                </lg>
                <lg>
                   <l>
-                     <pb n="11" facs="tcp:030022_0011_0FE3C68361C47860"/>
+                     <pb n="11" facs="unknown:030022_0011_0FE3C68361C47860"/>
 Thrice in the season, through each verdant row</l>
                   <l>Wield the strong plow-share and the faithful hoe;</l>
                   <l>The faithful hoe, a double task that takes,</l>
@@ -477,7 +477,7 @@ Thrice in the season, through each verdant row</l>
                   <l>Then let them steal the little stores they can,</l>
                   <l>And fill their grain'ries from the toils of man;</l>
                   <l>
-                     <pb n="12" facs="tcp:030022_0012_0FE3C688D9A64CA8"/>
+                     <pb n="12" facs="unknown:030022_0012_0FE3C688D9A64CA8"/>
 We've one advantage where they take no part,—</l>
                   <l>With all their wiles they ne'er have found the art</l>
                   <l>To boil the Hasty-Pudding; here we shine</l>
@@ -522,7 +522,7 @@ We've one advantage where they take no part,—</l>
                   <l>The laws of Husking ev'ry wight can tell;</l>
                   <l>And sure no laws he ever keeps so well:</l>
                   <l>
-                     <pb n="13" facs="tcp:030022_0013_0FE3C68FE24698E0"/>
+                     <pb n="13" facs="unknown:030022_0013_0FE3C68FE24698E0"/>
 For each red ear a general kiss he gains,</l>
                   <l>With each smut ear she smuts the luckless swains;</l>
                   <l>But when to some sweet maid a prize is cast,</l>
@@ -572,7 +572,7 @@ For each red ear a general kiss he gains,</l>
                   <l>Blest cow! thy praise shall still my notes employ,</l>
                   <l>Great source of health, the only source of joy;</l>
                   <l>
-                     <pb n="14" facs="tcp:030022_0014_0FE3C694B51DD6E0"/>
+                     <pb n="14" facs="unknown:030022_0014_0FE3C694B51DD6E0"/>
 How oft thy teats these pious hands have prest!</l>
                   <l>How oft thy bounties prove my only feast!</l>
                   <l>How oft I've fed thee with my fav'rite grain!</l>
@@ -618,7 +618,7 @@ How oft thy teats these pious hands have prest!</l>
                   <l>These tuneful lips, that thousand spoons have tried,</l>
                   <l>With just precision could the point decide,</l>
                   <l>
-                     <pb n="15" facs="tcp:030022_0015_0FE3C6995930E210"/>
+                     <pb n="15" facs="unknown:030022_0015_0FE3C6995930E210"/>
 Tho' not in song; the muse but poorly shines</l>
                   <l>In cones, and cubes, and geometric lines.</l>
                   <l>Yet the true form, as near as she can tell,</l>
